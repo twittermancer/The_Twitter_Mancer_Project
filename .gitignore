@@ -1,0 +1,6 @@
+*.pk
+data/
+mace/
+*.pickle
+*.triangles
+*.mace

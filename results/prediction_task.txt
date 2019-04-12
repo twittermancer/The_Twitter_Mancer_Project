@@ -1,0 +1,69 @@
+Start date: 1, end date: 28
+Balanced dataset for graph 0, contains 1082997 samples
+X_all	score = 0.797, std = 0.001
+X_deg	score = 0.784, std = 0.001
+X_triads	score = 0.725, std = 0.001
+X_composite	score = 0.727, std = 0.001
+X_triads_composite	score = 0.734, std = 0.001
+d_out(u)-f	d_out(u)-q	d_out(u)-r	d_out(u)-rt	d_in(v)-f	d_in(v)-q	d_in(v)-r	d_in(v)-rt	d_out(u)-t	d_in(v)-t	t1-f	t2-f	t3-f	t4-f	t5-f	t6-f	t7-f	t8-f	t9-f	t1-q	t2-q	t3-q	t4-q	t5-q	t6-q	t7-q	t8-q	t9-q	t1-r	t2-r	t3-r	t4-r	t5-r	t6-r	t7-r	t8-r	t9-r	t1-rt	t2-rt	t3-rt	t4-rt	t5-rt	t6-rt	t7-rt	t8-rt	t9-rt	ct1-fq	ct2-fq	ct3-fq	ct4-fq	ct5-fq	ct6-fq	ct7-fq	ct8-fq	ct9-fq	ct1-fr	ct2-fr	ct3-fr	ct4-fr	ct5-fr	ct6-fr	ct7-fr	ct8-fr	ct9-fr	ct1-frt	ct2-frt	ct3-frt	ct4-frt	ct5-frt	ct6-frt	ct7-frt	ct8-frt	ct9-frt	ct1-qr	ct2-qr	ct3-qr	ct4-qr	ct5-qr	ct6-qr	ct7-qr	ct8-qr	ct9-qr	ct1-qrt	ct2-qrt	ct3-qrt	ct4-qrt	ct5-qrt	ct6-qrt	ct7-qrt	ct8-qrt	ct9-qrt	ct1-rrt	ct2-rrt	ct3-rrt	ct4-rrt	ct5-rrt	ct6-rrt	ct7-rrt	ct8-rrt	ct9-rrt
+0.9897	-0.0187	-0.2858	-0.7333	1.6942	-0.052	-0.0405	-0.8606	0.5559	0.616	0.2198	-0.0332	0.2714	-0.0223	0.5962	0.1517	0.0819	0.1458	-0.2365	0.0672	-0.0275	-0.0542	-0.0098	0.0326	0.0277	0.005	-0.0181	0.0082	0.0134	-0.0293	0.0209	-0.0139	-0.0303	-0.0377	0.0149	0.0437	0.0886	0.0511	0.0667	-0.1158	0.1407	-0.3373	-0.1516	-0.0778	-0.3143	0.3219	-0.0998	0.1191	-0.0463	0.0929	-0.0374	0.1642	0.0684	0.0474	0.1134	0.139	-0.001	0.052	0.1544	0.0081	0.1643	0.1047	-0.0045	-0.1991	0.1413	0.1995	-0.2903	0.2997	-0.0587	0.1194	0.0806	0.1211	-0.0926	0.015	0.009	-0.0115	-0.0001	-0.0117	-0.0018	-0.0694	-0.0417	0.0707	0.1502	-0.0214	-0.0288	-0.0253	-0.0079	-0.093	-0.1808	-0.4306	-0.0385	0.0206	0.0328	0.0072	0.002	-0.1999	0.07	-0.1378	-0.1971	-0.0136
+X_only_i	score = 0.736, std = 0.001
+0 with 0 types
+score = 0.736, std = 0.001
+0 with 1 types
+score = 0.747, std = 0.001
+0 with 2 types
+score = 0.745, std = 0.001
+0 with 3 types
+score = 0.762, std = 0.001
+Balanced dataset for graph 1, contains 666820 samples
+X_all	score = 0.715, std = 0.001
+X_deg	score = 0.694, std = 0.001
+X_triads	score = 0.629, std = 0.001
+X_composite	score = 0.671, std = 0.001
+X_triads_composite	score = 0.685, std = 0.001
+d_out(u)-f	d_out(u)-q	d_out(u)-r	d_out(u)-rt	d_in(v)-f	d_in(v)-q	d_in(v)-r	d_in(v)-rt	d_out(u)-t	d_in(v)-t	t1-f	t2-f	t3-f	t4-f	t5-f	t6-f	t7-f	t8-f	t9-f	t1-q	t2-q	t3-q	t4-q	t5-q	t6-q	t7-q	t8-q	t9-q	t1-r	t2-r	t3-r	t4-r	t5-r	t6-r	t7-r	t8-r	t9-r	t1-rt	t2-rt	t3-rt	t4-rt	t5-rt	t6-rt	t7-rt	t8-rt	t9-rt	ct1-fq	ct2-fq	ct3-fq	ct4-fq	ct5-fq	ct6-fq	ct7-fq	ct8-fq	ct9-fq	ct1-fr	ct2-fr	ct3-fr	ct4-fr	ct5-fr	ct6-fr	ct7-fr	ct8-fr	ct9-fr	ct1-frt	ct2-frt	ct3-frt	ct4-frt	ct5-frt	ct6-frt	ct7-frt	ct8-frt	ct9-frt	ct1-qr	ct2-qr	ct3-qr	ct4-qr	ct5-qr	ct6-qr	ct7-qr	ct8-qr	ct9-qr	ct1-qrt	ct2-qrt	ct3-qrt	ct4-qrt	ct5-qrt	ct6-qrt	ct7-qrt	ct8-qrt	ct9-qrt	ct1-rrt	ct2-rrt	ct3-rrt	ct4-rrt	ct5-rrt	ct6-rrt	ct7-rrt	ct8-rrt	ct9-rrt
+-0.3487	0.9788	-0.2667	-0.481	-0.0716	0.7315	-0.3589	-0.3451	-0.0952	0.1719	-0.0551	-0.0887	0.047	-0.0302	0.0771	-0.0294	-0.029	0.067	-0.0297	-0.1617	-0.1636	0.678	-0.0955	0.1401	-0.0373	-0.0321	0.138	0.0386	-0.0189	-0.0516	-0.0078	-0.0217	0.0038	-0.0612	-0.0064	-0.0065	0.0774	0.0533	-0.242	-0.1909	0.0276	-0.118	-0.0414	-0.0236	-0.0604	0.2535	0.0777	0.1782	-0.0143	-0.0819	-0.0328	-0.0357	-0.1313	0.2082	0.1149	-0.0026	-0.1074	-0.018	0.0168	0.0403	-0.0028	0.0074	-0.0468	-0.0041	0.014	-0.3446	-0.0378	0.0739	-0.019	0.0488	0.0437	-0.4587	-0.1161	0.101	0.1064	0.1057	0.0143	0.0279	0.0321	0.039	-0.0401	-0.0883	0.218	0.2081	-0.2144	-0.0181	0.2746	-0.2188	0.1555	1.9622	-0.0727	0.0465	0.0431	0.2282	-0.0181	0.1244	-0.1182	-0.0605	-0.0483	-0.1005
+X_only_i	score = 0.626, std = 0.001
+1 with 0 types
+score = 0.675, std = 0.001
+1 with 1 types
+score = 0.626, std = 0.001
+1 with 2 types
+score = 0.651, std = 0.001
+1 with 3 types
+score = 0.692, std = 0.001
+Balanced dataset for graph 2, contains 1259970 samples
+X_all	score = 0.769, std = 0.001
+X_deg	score = 0.756, std = 0.001
+X_triads	score = 0.655, std = 0.001
+X_composite	score = 0.672, std = 0.001
+X_triads_composite	score = 0.671, std = 0.001
+d_out(u)-f	d_out(u)-q	d_out(u)-r	d_out(u)-rt	d_in(v)-f	d_in(v)-q	d_in(v)-r	d_in(v)-rt	d_out(u)-t	d_in(v)-t	t1-f	t2-f	t3-f	t4-f	t5-f	t6-f	t7-f	t8-f	t9-f	t1-q	t2-q	t3-q	t4-q	t5-q	t6-q	t7-q	t8-q	t9-q	t1-r	t2-r	t3-r	t4-r	t5-r	t6-r	t7-r	t8-r	t9-r	t1-rt	t2-rt	t3-rt	t4-rt	t5-rt	t6-rt	t7-rt	t8-rt	t9-rt	ct1-fq	ct2-fq	ct3-fq	ct4-fq	ct5-fq	ct6-fq	ct7-fq	ct8-fq	ct9-fq	ct1-fr	ct2-fr	ct3-fr	ct4-fr	ct5-fr	ct6-fr	ct7-fr	ct8-fr	ct9-fr	ct1-frt	ct2-frt	ct3-frt	ct4-frt	ct5-frt	ct6-frt	ct7-frt	ct8-frt	ct9-frt	ct1-qr	ct2-qr	ct3-qr	ct4-qr	ct5-qr	ct6-qr	ct7-qr	ct8-qr	ct9-qr	ct1-qrt	ct2-qrt	ct3-qrt	ct4-qrt	ct5-qrt	ct6-qrt	ct7-qrt	ct8-qrt	ct9-qrt	ct1-rrt	ct2-rrt	ct3-rrt	ct4-rrt	ct5-rrt	ct6-rrt	ct7-rrt	ct8-rrt	ct9-rrt
+0.2415	-0.2227	3.0449	-2.6719	0.2634	-0.268	0.4992	-0.7251	-0.715	-0.1894	0.0932	-0.0538	0.0079	0.0109	-0.0287	-0.1027	-0.0331	-0.165	0.0551	-0.107	0.0524	0.0432	0.0144	0.0337	0.0262	0.0078	0.0263	0.0281	-0.1743	-0.0642	0.1548	0.0309	0.1605	0.0765	-0.0523	-0.0806	0.3073	-0.1465	-0.0313	-0.0411	0.0305	-0.0557	0.0907	-0.0368	0.1382	0.1379	0.0092	-0.0396	-0.0443	-0.0187	-0.0238	-0.008	0.0066	0.0081	0.0345	0.1096	0.2089	-0.0359	0.0846	-0.103	-0.088	0.0744	0.1608	0.2148	-0.0131	-0.0126	-0.0478	0.0172	-0.0231	0.0124	-0.0084	-0.0028	0.0233	-0.092	-0.2048	-0.0479	-0.069	0.0297	0.104	-0.0071	0.0271	0.1901	0.1494	0.0598	0.0438	-0.0346	-0.0122	-0.1399	0.0021	-0.0896	-0.0269	-0.1246	0.0599	-0.2994	0.2122	0.0526	0.3718	0.2526	0.0401	0.0207
+X_only_i	score = 0.581, std = 0.000
+2 with 0 types
+score = 0.685, std = 0.001
+2 with 1 types
+score = 0.633, std = 0.001
+2 with 2 types
+score = 0.581, std = 0.000
+2 with 3 types
+score = 0.755, std = 0.001
+Balanced dataset for graph 3, contains 1499593 samples
+X_all	score = 0.771, std = 0.001
+X_deg	score = 0.743, std = 0.000
+X_triads	score = 0.674, std = 0.000
+X_composite	score = 0.666, std = 0.000
+X_triads_composite	score = 0.682, std = 0.000
+d_out(u)-f	d_out(u)-q	d_out(u)-r	d_out(u)-rt	d_in(v)-f	d_in(v)-q	d_in(v)-r	d_in(v)-rt	d_out(u)-t	d_in(v)-t	t1-f	t2-f	t3-f	t4-f	t5-f	t6-f	t7-f	t8-f	t9-f	t1-q	t2-q	t3-q	t4-q	t5-q	t6-q	t7-q	t8-q	t9-q	t1-r	t2-r	t3-r	t4-r	t5-r	t6-r	t7-r	t8-r	t9-r	t1-rt	t2-rt	t3-rt	t4-rt	t5-rt	t6-rt	t7-rt	t8-rt	t9-rt	ct1-fq	ct2-fq	ct3-fq	ct4-fq	ct5-fq	ct6-fq	ct7-fq	ct8-fq	ct9-fq	ct1-fr	ct2-fr	ct3-fr	ct4-fr	ct5-fr	ct6-fr	ct7-fr	ct8-fr	ct9-fr	ct1-frt	ct2-frt	ct3-frt	ct4-frt	ct5-frt	ct6-frt	ct7-frt	ct8-frt	ct9-frt	ct1-qr	ct2-qr	ct3-qr	ct4-qr	ct5-qr	ct6-qr	ct7-qr	ct8-qr	ct9-qr	ct1-qrt	ct2-qrt	ct3-qrt	ct4-qrt	ct5-qrt	ct6-qrt	ct7-qrt	ct8-qrt	ct9-qrt	ct1-rrt	ct2-rrt	ct3-rrt	ct4-rrt	ct5-rrt	ct6-rrt	ct7-rrt	ct8-rrt	ct9-rrt
+-0.1774	-0.5811	-1.2925	2.3567	-0.0774	-0.187	-0.2709	0.6633	0.7992	0.0396	0.189	0.0564	0.009	-0.0001	0.0377	0.0985	0.0271	-0.0947	-0.0103	0.0695	0.0369	-0.1072	-0.0151	-0.0344	0.0319	0.0033	-0.02	-0.0087	0.1167	0.0068	0.0074	-0.0461	-0.1064	-0.1104	0.0125	0.0581	-0.0838	-0.3276	0.0921	0.5911	-0.112	0.4476	-0.2296	-0.1002	0.3022	0.1695	0.0434	-0.0095	-0.0266	0.108	0.0223	0.0522	-0.0418	-0.1678	0.0291	-0.0668	-0.0941	0.0441	-0.2265	0.0899	0.1457	-0.0517	-0.0475	-0.0436	0.0561	0.1259	0.1444	-0.0521	-0.049	-0.0222	0.0212	0.1505	0.2242	0.0699	0.1679	0.1001	0.0178	0.0221	-0.0377	0.0213	0.0169	-0.0862	-0.0355	-0.0441	0.1001	-0.0242	0.0477	0.1288	-0.2245	-1.0208	0.1002	0.213	0.0358	0.1476	-0.1271	-0.0318	-0.3508	-0.3765	-0.0506	0.0981
+X_only_i	score = 0.682, std = 0.001
+3 with 0 types
+score = 0.710, std = 0.001
+3 with 1 types
+score = 0.726, std = 0.001
+3 with 2 types
+score = 0.722, std = 0.001
+3 with 3 types
+score = 0.682, std = 0.001
