@@ -1,4 +1,8 @@
 # The TwitterMancer Project
+Code and dataset for the paper:</br>
+**TwitterMancer:Predicting Interactions on Twitter Accurately** </br>
+Konstantinos Sotiropoulos<sup>1</sup>, John W. Byers<sup>1</sup>, Polyvios Pratikakis<sup>2</sup>, and Charalampos E. Tsourakakis<sup>1</sup></br>
+<sup>1</sup>Boston University, USA <sup>2</sup>University of Crete, Greece </br>
 
 ## In order to reproduce results...
   Run sequentially:
