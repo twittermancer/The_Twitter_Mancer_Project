@@ -26,3 +26,4 @@ prediction accuracy per embeddedness results and reproduces the main figures and
   1. Triangles were listed using [MACE](http://research.nii.ac.jp/~uno/code/mace.html) package
       Our scripts require a MACE executable inside a _"mace/"_ folder.
   2. code is written in Python2.7 and the scikit-learn version used in the experiments is 0.20.2.
+  3. Dataset is anonymized, so given user IDs do not represent real twitter users.
