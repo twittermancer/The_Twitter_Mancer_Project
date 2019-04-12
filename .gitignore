@@ -1,7 +1,7 @@
-!*results/*
 *.pk
 data/
 mace/
 *.pickle
 *.triangles
 *.mace
+!results/embAll_1_28.pk
