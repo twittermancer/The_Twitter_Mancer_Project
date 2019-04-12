@@ -4,4 +4,4 @@ mace/
 *.pickle
 *.triangles
 *.mace
-!results/
+!*/results/
