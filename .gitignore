@@ -1,5 +1,4 @@
 *.pk
-data/
 mace/
 *.pickle
 *.triangles

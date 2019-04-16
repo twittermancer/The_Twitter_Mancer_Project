@@ -1,5 +1,11 @@
 # The TwitterMancer Project
-
+Code and dataset for the paper:</br>
+**TwitterMancer:Predicting Interactions on Twitter Accurately**
+Konstantinos Sotiropoulos<sup>1</sup>, John W. Byers<sup>1</sup>, Polyvios Pratikakis<sup>2</sup>, and Charalampos E. Tsourakakis<sup>1</sup></br>
+<sup>1</sup>Boston University, USA <sup>2</sup>University of Crete, Greece </br>
+## Dataset
+Whole dataset is in the "data/" folder, in a compressed format and split in different files
+in order for files to be <100MB and fit in a github repository.  
 ## In order to reproduce results...
   Run sequentially:
   ```
