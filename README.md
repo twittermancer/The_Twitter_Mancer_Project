@@ -7,6 +7,8 @@ Konstantinos Sotiropoulos<sup>1</sup>, John W. Byers<sup>1</sup>, Polyvios Prati
 ## Dataset
 Whole dataset is in the "data/" folder, in a compressed format and split in different files
 in order for files to be <50MB per github rules. Dataset is anonymized.
+Alternatively, you can download it from the following link:
+https://drive.google.com/open?id=16uRqh5Gg1zkV2A-Gi-wx-0EW8FIkjSyn
 
 ## In order to reproduce results...
   Run sequentially:
